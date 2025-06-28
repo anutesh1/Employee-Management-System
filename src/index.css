@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  color:#fff;
+
+}
+body{
+  background: #111;
+
+}
+
+#tasks::-webkit-scrollbar {
+   display: none;
+}
